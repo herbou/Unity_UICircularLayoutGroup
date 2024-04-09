@@ -2,11 +2,11 @@
 
 Let's say we have a parent panel with a several ui objects (Image) :
 
-► `Panel`
-├── ► `Image1`
-├── ► `Image2`
-├── ► `Image3`
-├── ► `...`
+► `Panel`<br>
+├── ► `Image1`<br>
+├── ► `Image2`<br>
+├── ► `Image3`<br>
+├── ► `...`<br>
 ┊
 
 Add the `UICircularLayoutGroup` Component to the parent Panel.
