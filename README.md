@@ -9,6 +9,6 @@ Let's say we have a parent panel with a several ui objects (Image) :
 ├── ► `...`<br>
 ┊
 
-Add the `UICircularLayoutGroup` Component to the parent Panel.
+Add the `UICircularLayoutGroup` Component to the parent Panel (Assets/Scripts/UICircularLayoutGroup.cs).
 
 and adjust the children size and padding in the component settings.
